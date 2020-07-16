@@ -5,4 +5,4 @@ The resulting outputs were then implemented on an Xilinx FPGA.
 
 To use this, create a project in Vivado and import the files coresspoding by file types. The .xdc is a contraint and the .tb files are testbenches while the .v are source files. 
 Once imported run synthesis and implementation on Vivado and then run on the FPGA. The specified board is xc7a100tcsg. 
-The buttons mapped can be found in the source files.
+The buttons mapped can be found in the constraint files.
